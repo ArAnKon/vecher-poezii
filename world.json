@@ -1,0 +1,16 @@
+{
+  "title": "Вечер Поэзии",
+  "id": "vecher-poezii",
+  "system": "CoC7",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "systemVersion": "0.10.11",
+  "lastPlayed": "Sun Oct 20 2024 16:58:00 GMT+0300 (Москва, стандартное время)",
+  "playtime": 7064,
+  "description": "<h1><span style=\"font-family:Modesto Condensed\">Вечер Поэзии</span></h1><p></p><p>В  уютной  кофейне  на  берегу  озера  проходит  ежемесячный  поэтический  вечер.  Внезапно происходит нечто ужасное... и виной этому Король в Жёлтом.</p>",
+  "background": "Games/Call%20Of%20Cthulhu_/Vecher%20Poezii/689e939057477fe48c845b055c99217c.jpg"
+}
